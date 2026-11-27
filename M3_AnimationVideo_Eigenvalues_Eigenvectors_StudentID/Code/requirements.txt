@@ -1,0 +1,12 @@
+# Eigenvalues & Eigenvectors — M3 Animation
+# requirements.txt
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Manim Community Edition (CE) — required version
+manim>=0.18.0
+# Scientific Python
+numpy>=1.24.0
+# Optional: faster rendering codec support
+# (ffmpeg must be installed separately via your OS package manager)
